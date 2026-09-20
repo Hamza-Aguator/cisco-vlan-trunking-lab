@@ -8,7 +8,7 @@ Layer 2 VLAN Segmentation and Trunking lab built on Cisco Packet Tracer.
 ## 📊 Addressing & VLAN Scheme
 
 | VLAN ID | Name | Subnet |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **VLAN 10** | ID | `192.168.10.0/24` |
 | **VLAN 20** | DEV | `192.168.20.0/24` |
 | **VLAN 30** | TRI | `192.168.30.0/24` |
